@@ -1,0 +1,1 @@
+You can add any item you want to the dictionary. Before, if the item was not in the dictionary and was called, we would have an error, but by adding this code, any item that is written can be added to the dictionary, even if it does not already exist.
