@@ -1,0 +1,3 @@
+dict_values([[], [], [], []])
+dict_keys(['pooya', 'ali', 'reza', 'farhad'])
+{'pooya': [], 'ali': [], 'reza': [], 'farhad': []}
